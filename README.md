@@ -153,18 +153,26 @@ BlackpinkYG Family <br>
     </h3>
     <h3>
     -2016 -<a href = "https://www.youtube.com/watch?v=dISNgvVpWlo"> Whistle</a> , <a href = "https://www.youtube.com/watch?v=bwmSjveL3Lc">Boombayah</a><a href = "https://www.youtube.com/watch?v=9pdj4iJD08s"> , Playing With Fire </a><a href = "https://www.youtube.com/watch?v=FzVR_fymZw4">,Stay</a>
+    <img src = "https://i.ytimg.com/vi/dISNgvVpWlo/maxresdefault.jpg">
+    <img src = "https://i.ytimg.com/vi/bwmSjveL3Lc/hqdefault.jpg">
+    <img src = "https://www.thaiticketmajor.com/bus/imgUpload/newsLarge6015_b.jpg">
+    <img src = "https://i.ytimg.com/vi/FzVR_fymZw4/maxresdefault.jpg">
     <h3>
-   -2017-<a href = "https://en.wikipedia.org/wiki/Jisoo_(singer,_born_1995)"> As if its your last</a>
+   -2017-<a href = "https://www.youtube.com/watch?v=Amq-qlqbjYA"> As if its your last</a>
+        <img src = "https://i.ytimg.com/vi/Amq-qlqbjYA/maxresdefault.jpg">
     </h3>
    </h3> 
     <h3>
-    -2018-<a href = "https://www.youtube.com/watch?v=IHNzOHi8sJs">DDU-DU-DDU-DU</a> 
+    -2018-<a href = "https://www.youtube.com/watch?v=IHNzOHi8sJs">DDU-DU-DDU-DU</a>
+    <img src = "https://i.ytimg.com/vi/IHNzOHi8sJs/maxresdefault.jpg">
     <h3>
     -2019-<a href = "https://www.youtube.com/watch?v=2S24-y0Ij3Y">Kill This Love</a>    
     </h3>
+    <img src = "https://i.ytimg.com/vi/2S24-y0Ij3Y/maxresdefault.jpg">
     </h3>
     <h3>
     -2020 - <a href = "https://www.youtube.com/watch?v=ioNng23DkIM">How Do You Like That</a>
+    <img src = "https://i.ytimg.com/vi/ioNng23DkIM/hqdefault.jpg">
     </h3>    
   <a id = "Pictures" href = "https://wikipedia.org/wiki/Blackpink">     
     <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/20161119_%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC_%EB%A9%9C%EB%A1%A0%EB%AE%A4%EC%A7%81%EC%96%B4%EC%9B%8C%EB%93%9C_%281%29.jpg/800px-20161119_%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC_%EB%A9%9C%EB%A1%A0%EB%AE%A4%EC%A7%81%EC%96%B4%EC%9B%8C%EB%93%9C_%281%29.jpg"width = "500">  
@@ -175,8 +183,8 @@ BlackpinkYG Family <br>
     </a>
     </body>
     <h1>
-<a href = "#BLAƆPIИK">BLAƆPIИK</a>
-<img src = "https://i.ytimg.com/vi/ioNng23DkIM/hqdefault.jpg">
+<a href = "#BLAƆPIИK">BLAƆKPIИK</a>
+
     </h1>
 </html>
 

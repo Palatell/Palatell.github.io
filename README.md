@@ -1,0 +1,2 @@
+# Palatell.github.io
+Duh
